@@ -1,0 +1,173 @@
+    1  reboot
+    2  android-studio
+    3  ssh bpharris@10.0.0.1
+    4  cd /remote/
+    5  cd CMPUT301
+    6  ls
+    7  ./install*.sh
+    8  android-studio
+    9  ls
+   10  git status
+   11  ls
+   12  cd
+   13  ls
+   14  cd git_demo
+   15  ls
+   16  nano git_commands.txt
+   17  nano git_commands.txt
+   18  git status
+   19  git commit -m "blah2"
+   20  git push -u origin w16Thursday
+   21  git add .
+   22  ls
+   23  git commit -m "blah2"
+   24  git push -u origin w16Thursday
+   25  git log
+   26  git checkout 7adf01ad1a11d9f4dd0e9ff2291b19427a86be33
+   27  git checkout 7adf01ad1a11d9f4dd0e9ff2291b19427a86be33 -b
+   28  git merge w16Thursday
+   29  ls
+   30  nano git_comands.txt
+   31  nano git_commands.txt
+   32  git status
+   33  ls
+   34  cd git_demo
+   35  ls
+   36  git status
+   37  git push
+   38  git push -u origin w16Thursday
+   39  cd
+   40  git clone https://github.com/0x4849a/FillerCreepForAndroid.git
+   41  ls
+   42  cd bin
+   43  studio.sh
+   44  ./studio.sh
+   45  cd
+   46  studio.sh
+   47  ./studio.sh
+   48  cd bin
+   49  ls
+   50  cd android-studio
+   51  ./studio.sh
+   52  cd /remote/
+   53  ls
+   54  cd CMPUT301
+   55  ls
+   56  ./studio.sh
+   57  studio.sh
+   58  source ~/.bashrc
+   59  studio.sh
+   60  ls
+   61  cd
+   62  ls
+   63  cd FillerCreep*
+   64  ls
+   65  git status
+   66  ssh bpharris@10.0.0.1
+   67  ./studio
+   68  ls
+   69  cd bin
+   70  ls
+   71  ./android-studio
+   72  cd android-studio
+   73  ls
+   74  cd ..
+   75  ls
+   76  ls
+   77  studio.sh
+   78  git clone https://github.com/0x4849a/git_demo.git
+   79  ls
+   80  cd git_demo
+   81  ls
+   82  thunar
+   83  git remote -v
+   84  git branch -a
+   85  git branch w16Thursday
+   86  git branch -a
+   87  git push -u origin w16Thursday
+   88  nano git_commands.txt
+   89  git status
+   90  git cehckout w16Thursday
+   91  git checkout w16Thursday
+   92  nano git_commands.txt
+   93  git add git_commands.txt
+   94  git status
+   95  git commit git_commands.txt
+   96  git config --global user .name "0x4849a"
+   97  git config --global user .email "bpharris@ualberta.ca"
+   98  git config --global user.name "0x4849a"
+   99  git config --global user.email "bpharris@ualberta.ca"
+  100  git commit git_commands.txt
+  101  git commit git_commands.txt
+  102  git commit -a
+  103  ls
+  104  git commit -a
+  105  git commit -a
+  106  ls
+  107  git status
+  108  git commit -m "blah"
+  109  git remote
+  110  git remote -v
+  111  rm '/afs/ualberta.ca/home/b/p/bpharris/git_demo/.git/index.lock' -f
+  112  git commit -m "blah"
+  113  git push -u origin W16Thursday
+  114  git push -u origin master
+  115  cd
+  116  cd Android
+  117  cd Sdk
+  118  cd Tools
+  119  ls
+  120  cd tools
+  121  ls
+  122  ./android
+  123  ls
+  124  cd lonelyTwitter
+  125  ls
+  126  git add .
+  127  git commit -m "Lonely Twitter Stuff"
+  128  git push
+  129  ssh bpharris@10.0.0.1
+  130  ssh bpharris@10.0.0.1
+  131  ssh bpharris@10.0.0.1
+  132  ssh bpharris@10.0.0.1
+  133  ssh bpharris@10.0.0.1
+  134  ssh bpharris@10.0.0.1
+  135  git clone https://github.com/0x4849a/lonelyTwitter.git
+  136  git branch -a
+  137  ls
+  138  cd lonely*
+  139  git branch -a
+  140  git checkout -B w16 Thursday
+  141  git checkout -B w16Thursday
+  142  git branch -a
+  143  git push --up-stream
+  144  git push --up-stream
+  145  git push --setup-stream
+  146  git push -u origin
+  147  git push --set-upstream origin w16Thursday
+  148  git status
+  149  git add .
+  150  git commit -m "updated tweet"
+  151  git push -u w16Thursday
+  152  git push -b w16Thursday
+  153  git push -branch w16Thursday
+  154  nano .gitignore
+  155  git push
+  156  git status
+  157  git add app
+  158  git commit -m "Updated some stuff"
+  159  git push
+  160  source ~/.bashrc
+  161  studio.sh
+  162  ./studio
+  163  cd android-studio
+  164  history > blah.txt
+  165  nedit blah.txt
+  166  emacs quiz3.C
+  167  android-sdk
+  168  sdk
+  169  sdb
+  170  ls -ltr
+  171  cd MyFirstApp
+  172  ls
+  173  history > aaaaa.txt
